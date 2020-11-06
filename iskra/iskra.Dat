@@ -1,0 +1,34 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~iskra.PrjPcb|ReportField=ProjectFullPath~E:\altium_projects\Projects\iskra\iskra.PrjPcb|ReportField=Title~Bill of Materials For Project [iskra.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~43|ReportField=ReportTime~11:17:05|ReportField=ReportDate~03.11.2020|ReportField=ReportDateTime~03.11.2020 11:17:05|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Address1|ReportField=Address2~Address2|ReportField=Address3~Address3|ReportField=Address4~Address4|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~03.11.2020|ReportField=CurrentTime~11:13:10|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\altium_projects\Projects\iskra\iskra.SchDoc|ReportField=DocumentName~iskra.SchDoc|ReportField=DocumentNumber~РКВТ1488 Э3|ReportField=DocumentType~Схема электрическая принципиальная|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=EngineerName~|ReportField=FirstReferrence~АБВГ.123456.001|ReportField=ImagePath~|ReportField=Letter1Column~|ReportField=Letter2Column~|ReportField=Letter3Column~|ReportField=Mass~|ReportField=ModifiedDate~28.10.2020|ReportField=NormInspection~|ReportField=Organization~|ReportField=ProcessInspection~|ReportField=ProjectName~iskra.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=Scale~1:1|ReportField=SheetNumber~1|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=Title2str~|ReportField=DataSourceFileName~iskra.PrjPcb|ReportField=DataSourceFullPath~E:\altium_projects\Projects\iskra\iskra.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CAP||C1||CAP|1
+2|CAP||C2||CAP|1
+3|CAP||C3||CAP|1
+4|CAP||C4||CAP|1
+5|CAP||C5||CAP|1
+6|CAP||C6||CAP|1
+7|CAP||C7||CAP|1
+8|CAP||C8||CAP|1
+9|MBR0520||D1||MBR0520|1
+10|||F1||MF-PSMF050|1
+11|GND||GND||GND|9
+12|M328AU||IC1||M328AU_1|2
+13|CH340G||IC2||CH340G_1|2
+14|AMS1117-5.0||IC3||AMS|1
+15|AMS1117-3.3||IC4||AMS|1
+16|green||LED1||LED|1
+17|red||LED2||LED|1
+18|yellow||LED3||LED|1
+19|blue||LED4||LED|1
+20|10k||R1||Resistor|1
+21|1k||R2||Resistor|1
+22|1k||R3||Resistor|1
+23|1k||R4||Resistor|1
+24|1k||R5||Resistor|1
+25|1k||R6||Resistor|1
+26|1k||R7||Resistor|1
+27|IT-1187||S1||BUTTON|1
+28|PLS-15||X1||PLS-15|1
+29|PLS-15||X2||PLS-15_2|1
+30|MICROUSB 5S B||X3||MICROUSB 5S B|1
+31|AVR ISP||X4||AVR ISP|1
+32|16MHz||Y1||Y|1
+33|12MHz||Y2||Y|1
